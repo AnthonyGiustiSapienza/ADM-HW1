@@ -8,6 +8,7 @@ In the file called :
 
 You will find all the results for the exercices of HackerRank, in the first one for all the exercices of Problem 1 and vice versa for the second one. 
 
+
 In the PDF file called :
   - Giusti_HackerRankCode.pdf
 

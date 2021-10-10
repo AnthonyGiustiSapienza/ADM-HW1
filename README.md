@@ -10,7 +10,8 @@ You will find all the results for the exercices of HackerRank, in the first one 
 
 
 In the PDF file called :
+  - Giusti_HackerRankCode.py
   - Giusti_HackerRankCode.pdf
 
-You will find all my codes listed in the right order with a summary of it. 
+You will find all my codes listed in the right order, and in the pdf a summary of it. 
 
